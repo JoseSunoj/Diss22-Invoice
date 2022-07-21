@@ -3,7 +3,7 @@ Invoice Microservice
 
 Other microservices of the final Cloud-native e-commerce application can be accessed from the links below.
 
-* [store gateway](https://github.com/JoseSunoj/Diss22-Product)
+* [store gateway](https://github.com/JoseSunoj/Diss22-Store)
 * [product](https://github.com/JoseSunoj/Diss22-Product)
 * [notification](https://github.com/JoseSunoj/Diss22-Notification)
 
